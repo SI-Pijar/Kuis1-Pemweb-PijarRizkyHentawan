@@ -1,0 +1,17 @@
+body{
+    background-color: #c7a6a6;
+    font-family: Arial;
+    margin: 0;
+    padding: 20px;
+}
+
+h1{
+    color: #ffffff;
+    text-align: center;
+}
+
+table{
+    width: 100%;
+    border-collapse: SOLID;
+    margin-top: 20px;
+}
